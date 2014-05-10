@@ -19,3 +19,8 @@ I swear I'm not a crazy cat person.
 I'm currently available for hire!
 Feel free to contact me with job opportunities.
 You can find my portfolio site at www.ricardo.io
+
+## Resources
+### Learn with me!
+Some resources I used in the making of this wonderous chrome extension:
+https://developer.chrome.com/extensions/getstarted
